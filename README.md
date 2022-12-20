@@ -5,5 +5,9 @@
 
 
 - https://github.com/dboyliao/SOLID 
+- 소나큐브 사용
+  - `$npx sonar-scanner` 
 
 - 객체지향 설계: https://docs.google.com/presentation/d/15d6ou9X7J9vypaC7gpmdfQycMtkQVBXF0tDegRdB4jY/edit#slide=id.g1bd33b06dbc_0_0 
+
+- github 코드 검색: https://sourcegraph.com/search 
